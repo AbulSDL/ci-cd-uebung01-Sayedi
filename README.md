@@ -1,5 +1,7 @@
 # CI/CD Übung – Java Basisprojekt (Ü1 mit Anleitungen)
 
+[![Maven CI](https://github.com/AbulSDL/ci-cd-uebung01-Sayedi/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/AbulSDL/ci-cd-uebung01-Sayedi/actions/workflows/ci.yml)
+
 Dieses Repository ist der Startpunkt für **Übung 1** und wird in **allen folgenden Übungen** weiterverwendet
 (CI mit GitHub Actions → SonarCloud → Docker → Security-Scan).
 
